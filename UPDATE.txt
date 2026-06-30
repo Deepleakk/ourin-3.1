@@ -1,0 +1,49 @@
+*OURIN MD 3.1*
+
+🌾 Apa aja yang di update?
+
+[ 🌾 *UPDATE* ]
+- *.srt* - Shuffle Reply Thumb, memungkinkan penggunaan gambar random/acak yang diupload manual oleh owner untuk menjadi thumbnail reply bot
+- Fix bug pada game ular tangga (dadu kocok tidak merespon
+- *.ganti-asset* - ganti asset lebih mudah
+- penambahan setmenu v5, setallmenu v5, setmenucat v5
+- penambahan setmenu v6, setallmenu v6, setmenucat v6
+- penambahan setreply v5, v6 dan v7
+- rombak tampilan *.notifpromote* dan *notifdemote*
+- rombak tampilan *.tt* ( tiktok downloader )
+- memperbaiki setrules
+- memperbaiki rvo
+- memperbaiki join
+- penambahan simbol g ( group ) dan p ( private ) di allmenu, untuk penanda
+- penambahan .game on/off dan .rpg on/off, kalau mau matiin command di category game / rpg
+- *.swgcv2* - ini sama kayak swgc biasa, tapi kalau pakai ini, bordernya grupnya jadi pink ke unguan
+- *.swgcv2all* - ini sama kayak swgc biasa, tapi kalau pakai ini, bordernya grupnya jadi pink ke unguan ( Kirim ke semua grup )
+- memperbaiki sholat scheduler
+- memperbaiki spotifydl
+- memperbaiki threaddl
+- perubahan tampilan pada command yts
+- memperbaiki ffstalk
+- memperbaiki spotify 
+- *.musiccard* - music card
+- *.genshinstalk* - stalker genshin impack
+- *.pintereststalk* - stalker pinterest
+- perubahan pada tampilan iqc
+- *.ttp* - ttp maker
+- *.sologo* - logo maker
+- *.musicmaker* - music maker
+- *.gag* - grow a garden info
+- *.gag2* - grow a garden info 2
+- *.harilibur* - info libur
+- *.pap* - pap cewe, cowo, fem
+- *.quilbot* - chat quilbot
+- *.simi* - chat simi
+- penambahan 2 provider di tourl
+- *.wikipedia* - cari info di wikipedia
+- *.searchthatsong* - cari lagu ini
+- memperbaiki fitur play
+- *.hd3* - hd versi ke 3
+- *.audio-quran* - dengarkan murotal quran
+- *.video-transcribe* - ubah video jadi text
+- *.pddikti* - cek data mahasiswa
+- *.caribug* - cari bug di code
+- penambahan welcometype dan goodyetype versi 7
