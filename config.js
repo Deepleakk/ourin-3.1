@@ -100,8 +100,8 @@ const config = {
   },
 
   sticker: {
-    packname: "bot-ganteng\n\n\n\n\n\n\n\n", // Nama pack sticker
-    author: "\n\n\n\n\n\n\n\nngawi", // Author sticker
+    packname: "ngapain jir dibuka", // Nama pack sticker
+    author: "fiks pen nyolong", // Author sticker
   },
 
   saluran: {
