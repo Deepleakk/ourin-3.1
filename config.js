@@ -9,17 +9,17 @@ const config = {
   },
 
   owner: {
-    name: "[faiz@DebianBookworm ~]$", // Nama owner
-    number: ["6285871074338", "6285880013373", "6281371656768"], // Format: 628xxx (tanpa + atau 0)
+    name: "[syd]$", // Nama owner
+    number: ["6283851104386"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "628211295243", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: "62882006694241", // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
   bot: {
-    name: "𝙰.𝚁.𝙾.𝙽.𝙰", // Nama bot
+    name: "BOT.S.Y.D", // Nama bot
     version: "3.1", // Versi bot
     developer: "𝚂.𝙲.𝙷.𝙰.𝙻.𝙴", // Nama developer
   },
@@ -100,8 +100,8 @@ const config = {
   },
 
   sticker: {
-    packname: "ngapain jir dibuka", // Nama pack sticker
-    author: "fiks pen nyolong", // Author sticker
+    packname: "bot-ganteng\n\n\n\n\n\n\n\n", // Nama pack sticker
+    author: "\n\n\n\n\n\n\n\nngawi", // Author sticker
   },
 
   saluran: {
