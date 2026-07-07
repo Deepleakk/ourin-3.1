@@ -10,7 +10,7 @@ const config = {
 
   owner: {
     name: "[faiz@DebianBookworm ~]$", // Nama owner
-    number: ["6285871074338", "6285880013373", "6281371656768"], // Format: 628xxx (tanpa + atau 0)
+    number: "6285871074338", // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
