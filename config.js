@@ -9,12 +9,12 @@ const config = {
   },
 
   owner: {
-    name: "[faiz@alpine ~]$", // Nama owner
+    name: "[faiz@DebianBookworm ~]$", // Nama owner
     number: ["6285871074338", "6285880013373", "6281371656768"], // Format: 628xxx (tanpa + atau 0)
   },
 
   session: {
-    pairingNumber: "628211295243", // Nomor WA yang akan di-pair, ini penting
+    pairingNumber: ["628211295243", "6288245996315"], // Nomor WA yang akan di-pair, ini penting
     usePairingCode: true, // true = Pairing Code, false = QR Code
   },
 
